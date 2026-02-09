@@ -1,11 +1,84 @@
-# 💫 About Me:
-👋 Hi there!<br><br>I'm **Rattnakvisal**, a passionate **Web Developer** who loves building modern, responsive, and user-friendly web applications.<br><br>---<br><br> 🚀 About Me<br>- 💻 Web developer focused on **front-end & back-end development**<br>- 🛠️ I enjoy turning ideas into real, working products<br>- 🌱 Always learning new technologies and improving my skills<br>- 🎯 Interested in clean code, performance, and good UI/UX<br><br>---<br><br>🧰 Tech Stack<br>- **Languages:** PHP, JavaScript, HTML, CSS  <br>- **Frameworks & Tools:** Laravel, Tailwind CSS, Chart.js, React,   <br>- **Database:** MySQL / MariaDB / Oracle<br>- **Other:** Git, GitHub, REST APIs<br><br>---<br><br>📌 What I’m Doing<br>- 🔭 Currently working on **web applications & e-commerce projects**<br>- 🌱 Learning **advanced Laravel, security, and API integrations**<br>- 🤝 Open to collaboration on **web development projects**<br><br>---<br> 📫 How to Reach Me<br>- 💬 GitHub: [@Rattnakvisal](https://github.com/Rattnakvisal)<br>- 📧 Email: rattnakvisalchun@gmail.com <br><br>---<br><br>⚡ Fun Fact<br>I love solving bugs almost as much as writing clean code 😄<br><br>---<br><br>✨ Thanks for visiting my profile!<br>
 
+<h1 align="center">👋 Hi there, I'm <b>Rattnakvisal</b></h1>
+<p align="center">
+  <b>Web Developer</b> • Full-Stack (Front-end & Back-end) • Clean Code • UI/UX • Performance
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/chun.rattnakvisal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chun-rattnakvisal-3a24a0361/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Chun Rattnakvisal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rattnakvisalchun@gmail.com) 
+<p align="center">
+  <a href="https://github.com/Rattnakvisal">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rattnakvisalchun@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/chun.rattnakvisal">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chun-rattnakvisal-3a24a0361/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+✨ I'm a passionate **Web Developer** who loves building **modern, responsive, and user-friendly** web applications.  
+🚀 I enjoy turning ideas into real products using clean code and strong UI/UX.
+
+- 💻 Focus: **Front-end & Back-end Development**
+- 🛠️ Love: Building real projects & solving problems
+- 🌱 Learning: New tech, best practices, and security
+- 🎯 Goal: Clean code, performance, and great experience
+
+---
+
+## 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0b1320?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+---
+
+## 📌 What I’m Doing
+- 🔭 Building **web applications & e-commerce projects**
+- 🌱 Learning **advanced Laravel, security, and API integrations**
+- 🤝 Open to collaboration on **web development projects**
+
+---
+
+## 📫 Contact
+- 💬 GitHub: [@Rattnakvisal](https://github.com/Rattnakvisal)
+- 📧 Email: **rattnakvisalchun@gmail.com**
+
+---
+
+## ⚡ Fun Fact
+I love solving bugs almost as much as writing clean code 😄
+
+<p align="center">
+  ✨ Thanks for visiting my profile!
+</p>
+
