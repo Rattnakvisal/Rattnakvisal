@@ -14,8 +14,8 @@ I'm **Rattnakvisal**, a passionate **Web Developer** who loves building modern, 
 
 ### 🧰 Tech Stack
 - **Languages:** PHP, JavaScript, HTML, CSS  
-- **Frameworks & Tools:** Laravel, Tailwind CSS, Chart.js  
-- **Database:** MySQL / MariaDB  
+- **Frameworks & Tools:** Laravel, Tailwind CSS, Chart.js, React,   
+- **Database:** MySQL / MariaDB / Oracle
 - **Other:** Git, GitHub, REST APIs
 
 ---
@@ -29,7 +29,7 @@ I'm **Rattnakvisal**, a passionate **Web Developer** who loves building modern, 
 
 ### 📫 How to Reach Me
 - 💬 GitHub: [@Rattnakvisal](https://github.com/Rattnakvisal)
-- 📧 Email: *(add your email here)*
+- 📧 Email: rattnakvisalchun@gmail.com 
 
 ---
 
