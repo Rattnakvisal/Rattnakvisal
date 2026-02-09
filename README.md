@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👋 Hi there!
 
-<!--
-**Rattnakvisal/Rattnakvisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rattnakvisal**, a passionate **Web Developer** who loves building modern, responsive, and user-friendly web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 💻 Web developer focused on **front-end & back-end development**
+- 🛠️ I enjoy turning ideas into real, working products
+- 🌱 Always learning new technologies and improving my skills
+- 🎯 Interested in clean code, performance, and good UI/UX
+
+---
+
+### 🧰 Tech Stack
+- **Languages:** PHP, JavaScript, HTML, CSS  
+- **Frameworks & Tools:** Laravel, Tailwind CSS, Chart.js  
+- **Database:** MySQL / MariaDB  
+- **Other:** Git, GitHub, REST APIs
+
+---
+
+### 📌 What I’m Doing
+- 🔭 Currently working on **web applications & e-commerce projects**
+- 🌱 Learning **advanced Laravel, security, and API integrations**
+- 🤝 Open to collaboration on **web development projects**
+
+---
+
+### 📫 How to Reach Me
+- 💬 GitHub: [@Rattnakvisal](https://github.com/Rattnakvisal)
+- 📧 Email: *(add your email here)*
+
+---
+
+### ⚡ Fun Fact
+I love solving bugs almost as much as writing clean code 😄
+
+---
+
+✨ Thanks for visiting my profile!
