@@ -1,8 +1,3 @@
-<!-- ===============================
-   ✅ Rattnakvisal Profile README (Dashboard Style)
-   Paste into: Rattnakvisal/README.md
-================================ -->
-
 <!-- Header (animated) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Rattnakvisal&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20%7C%20Laravel%20%7C%20React%20%7C%20Tailwind&descAlign=50&descAlignY=60&color=0:0f172a,100:22c55e&fontColor=ffffff" />
