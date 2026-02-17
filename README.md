@@ -38,16 +38,6 @@
 ---
 
 ## 📊 My Dashboard
-
-<!-- Top row: Stats + Streak -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Rattnakvisal&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
 <!-- Middle row: Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rattnakvisal&theme=tokyo-night&hide_border=true" />
