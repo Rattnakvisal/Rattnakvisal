@@ -1,24 +1,11 @@
-# Hi there, I'm Chun Rattnakvisal 👋
-
-I'm a **Full-Stack Web Developer** passionate about creating modern, secure, and scalable web applications.  
-I enjoy turning ideas into real products using **Laravel, React, Tailwind CSS, and MySQL**.
-
-💡 I love building:
-- Business systems
-- E-commerce platforms
-- Clean and responsive user interfaces
-- Secure backend systems with API integrations
-
-🚀 My goal is to keep growing as a developer and build projects that create real value.
-
-<!-- Hero Section -->
+<!-- Hero Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Chun%20Rattnakvisal&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Laravel%20%7C%20React%20%7C%20Tailwind%20CSS&descAlign=50&descAlignY=60&color=0:0f172a,100:22c55e&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Chun%20Rattnakvisal&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Laravel%20%7C%20ASP.NET%20Core%20MVC%20%7C%20React&descAlign=50&descAlignY=60&color=0:0f172a,100:22c55e&fontColor=ffffff" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=👋+Hello%2C+I'm+Chun+Rattnakvisal;💻+Full-Stack+Web+Developer;🚀+Passionate+about+Modern+Web+Applications;🛒+Building+E-commerce+%26+Business+Systems;🔐+Focused+on+Security%2C+Performance%2C+and+Clean+Code;✨+Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=👋+Hello%2C+I'm+Chun+Rattnakvisal;💻+Full-Stack+Web+Developer;🚀+Laravel+%7C+ASP.NET+Core+MVC+%7C+React;🛒+Building+Web+Apps+and+E-commerce+Systems;🔐+Focused+on+Security+%26+Performance;✨+Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <!-- Social Links -->
@@ -39,98 +26,154 @@ I enjoy turning ideas into real products using **Laravel, React, Tailwind CSS, a
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rattnakvisal&style=for-the-badge&color=22c55e" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Rattnakvisal&style=for-the-badge&color=22c55e" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-Hi, I'm **Chun Rattnakvisal**, a passionate **Full-Stack Web Developer** who enjoys building modern, user-friendly, and high-performance web applications.
+Hi, I'm **Chun Rattnakvisal**, a passionate **Full-Stack Web Developer** who enjoys building modern, secure, and scalable web applications.
 
-- 🔭 Currently working on **web applications and e-commerce systems**
-- 🌱 Currently learning **Advanced Laravel, API Integrations, Web Security**
-- 💡 Interested in **clean architecture, performance optimization, and UI/UX**
-- 🤝 Open to **collaboration on web development projects**
-- 🎯 Goal: Build products that are **useful, scalable, and secure**
+💡 I enjoy turning **ideas into real products** using modern technologies.
+
+### 🎯 My Focus
+- Building **modern web applications**
+- Creating **e-commerce systems**
+- Developing **secure backend APIs**
+- Improving **performance and clean architecture**
+
+### 🌱 Currently Learning
+- Advanced **Laravel architecture**
+- **ASP.NET Core MVC**
+- **Web security and authentication**
+- **API integrations and payment systems**
 
 ---
 
 # 🛠️ Tech Stack
 
-## Frontend
+## 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
 </p>
 
-## Backend
+## ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
+<img src="https://skillicons.dev/icons?i=php,laravel,dotnet" />
 </p>
 
-## Database & Tools
+### Backend Technologies
+- Laravel (MVC Framework)
+- ASP.NET Core MVC
+- RESTful API Development
+- Authentication & Authorization
+- API Integration
+
+---
+
+## 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
+
+### Database Skills
+- MySQL
+- SQL Queries
+- CRUD Operations
+- Relational Database Design
+- Database Optimization
+
+---
+
+## 🧰 Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+Tools I use:
+- Git & GitHub (Version Control)
+- Postman (API Testing)
+- VS Code
+- Figma (UI Design)
 
 ---
 
 # 🚀 What I Do
 
-- 🌐 Develop **responsive and modern websites**
-- 🛒 Build **e-commerce systems**
-- 🔐 Improve **security and authentication systems**
-- ⚡ Optimize **performance and clean code structure**
-- 🔗 Integrate **APIs and payment gateways**
+💻 Develop **full-stack web applications**  
+🛒 Build **e-commerce platforms**  
+🔐 Implement **authentication & security systems**  
+⚡ Optimize **performance and scalable architecture**  
+🔗 Integrate **third-party APIs and payment gateways**
 
 ---
 
-# 📈 GitHub Dashboard
+# 📊 GitHub Dashboard
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rattnakvisal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rattnakvisal&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rattnakvisal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rattnakvisal&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rattnakvisal&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rattnakvisal&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rattnakvisal&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rattnakvisal&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
+
+# 🚀 Core Skills
+
+![Laravel](https://img.shields.io/badge/Laravel-FullStack-red?style=for-the-badge&logo=laravel)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-Core%20MVC-blue?style=for-the-badge&logo=dotnet)
+![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38bdf8?style=for-the-badge&logo=tailwindcss)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql)
+![API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
 
 ---
 
 # 📌 Current Focus
 
-- 🔭 Building **real-world Laravel and React projects**
-- 🌱 Learning **payment integration, API security, and advanced backend development**
-- 📚 Improving my skills in **system design and full-stack development**
-- 🎯 Creating projects that solve **real business problems**
+- 🔭 Building **real-world Laravel and ASP.NET Core projects**
+- 🌱 Learning **security, API integrations, and advanced backend systems**
+- 📚 Improving **full-stack development skills**
+- 🎯 Creating **portfolio projects for real business use**
 
 ---
 
 # 🏆 Goals for 2026
 
-- ✅ Build more complete **portfolio projects**
-- ✅ Master **Laravel + React full-stack workflow**
-- ✅ Learn deeper about **authentication, authorization, and security**
-- ✅ Contribute to **open-source or team projects**
-- ✅ Become a stronger **professional full-stack developer**
+- Build more **professional portfolio projects**
+- Master **Laravel + React full-stack workflow**
+- Deepen knowledge in **ASP.NET Core MVC**
+- Learn more about **web security and system design**
+- Contribute to **open-source projects**
 
 ---
 
 # 📫 Contact Me
 
-- 💬 GitHub: [github.com/Rattnakvisal](https://github.com/Rattnakvisal)
-- 📧 Email: **rattnakvisalchun@gmail.com**
-- 🔗 LinkedIn: [chun-rattnakvisal](https://www.linkedin.com/in/chun-rattnakvisal-3a24a0361/)
-- 📘 Facebook: [chun.rattnakvisal](https://www.facebook.com/chun.rattnakvisal)
+💬 GitHub:  
+https://github.com/Rattnakvisal  
+
+📧 Email:  
+**rattnakvisalchun@gmail.com**
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/chun-rattnakvisal-3a24a0361/
+
+📘 Facebook:  
+https://www.facebook.com/chun.rattnakvisal
 
 ---
 
 <p align="center">
-  <b>✨ Thanks for visiting my profile!</b><br>
-  <i>Let's build something amazing together 🚀</i>
+<b>✨ Thanks for visiting my profile!</b>  
+<br>
+<i>Let's build something amazing together 🚀</i>
 </p>
