@@ -69,10 +69,6 @@ I am a **Full-Stack Web Developer** passionate about building **modern, secure, 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rattnakvisal&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rattnakvisal&theme=tokyo-night&hide_border=true"/>
 </p>
 
