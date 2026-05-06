@@ -138,63 +138,7 @@ I focus on turning ideas into real-world digital products using **clean code**, 
 
 ---
 
-## 📌 Highlight Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🛒 E-commerce System</h3>
-      <p>
-        A full-stack online shopping platform with product management,
-        authentication, cart features, and admin dashboard.
-      </p>
-      <p><b>Tech:</b> Laravel, React, MySQL</p>
-    </td>
-    <td width="50%">
-      <h3>📚 Management System</h3>
-      <p>
-        A responsive system for managing records, users, requests,
-        reports, and dashboard analytics.
-      </p>
-      <p><b>Tech:</b> ASP.NET Core, Bootstrap, SQL Server</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📱 Flutter Mobile App</h3>
-      <p>
-        A mobile app practice project focused on clean UI, navigation,
-        forms, API integration, and responsive mobile layout.
-      </p>
-      <p><b>Tech:</b> Flutter, Dart, REST API</p>
-    </td>
-    <td width="50%">
-      <h3>🔐 Authentication System</h3>
-      <p>
-        Login, register, role-based access control, protected pages,
-        and secure user management features.
-      </p>
-      <p><b>Tech:</b> Laravel, ASP.NET Core, PostgreSQL</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Rattnakvisal&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Rattnakvisal&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
 
 <p align="center">
   <img
