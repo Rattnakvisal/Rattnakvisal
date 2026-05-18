@@ -53,10 +53,6 @@ I focus on turning ideas into real-world digital products using **clean code**, 
   <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs,java,nodejs" alt="Backend Skills" />
 </p>
 
-### 📱 Mobile Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Skills" />
-</p>
 
 ### 🗄️ Database
 <p align="left">
@@ -89,10 +85,6 @@ I focus on turning ideas into real-world digital products using **clean code**, 
     <td>✅ Database-driven applications</td>
     <td>✅ Responsive modern UI</td>
   </tr>
-  <tr>
-    <td>✅ Flutter mobile apps</td>
-    <td>✅ Role-based access control</td>
-  </tr>
 </table>
 
 ---
@@ -124,13 +116,6 @@ I focus on turning ideas into real-world digital products using **clean code**, 
       <p>
         Working with <b>MySQL</b>, <b>PostgreSQL</b>, and <b>SQLite</b>
         for storing, organizing, and managing application data.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>📱 Mobile Development</h3>
-      <p>
-        Learning and building mobile applications with <b>Flutter</b>
-        and <b>Dart</b> for cross-platform app development.
       </p>
     </td>
   </tr>
