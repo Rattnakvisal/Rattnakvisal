@@ -105,7 +105,7 @@ I focus on turning ideas into real-world digital products using **clean code**, 
       <h3>⚙️ Backend Development</h3>
       <p>
         Creating secure and scalable backend systems using
-        <b>Laravel</b>, <b>ASP.NET Core</b>, <b>Java</b>,
+        <b>Laravel</b>, <b>ASP.NET Core</b>,
         <b>REST APIs</b>, and database integrations.
       </p>
     </td>
@@ -135,7 +135,6 @@ I focus on turning ideas into real-world digital products using **clean code**, 
 
 ## 🎯 Current Focus
 
-- 🔭 Building real-world Laravel and ASP.NET Core projects  
 - 🌱 Learning advanced backend architecture  
 - 📱 Improving Flutter mobile development skills  
 - ☕ Practicing Java for backend and OOP  
@@ -150,8 +149,6 @@ I focus on turning ideas into real-world digital products using **clean code**, 
 
 - 🚀 Build strong portfolio projects  
 - 💻 Master Laravel + React ecosystem  
-- 📱 Build real mobile apps with Flutter  
-- ☕ Improve Java and OOP skills  
 - 🐘 Use PostgreSQL in real projects  
 - 🔐 Improve system design and security  
 - 🌍 Contribute to open-source projects  
