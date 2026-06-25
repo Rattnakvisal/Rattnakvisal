@@ -13,7 +13,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=950&lines=👋+Hi%2C+I'm+Chun+Rattnakvisal;💻+Full-Stack+Web+Developer;🚀+Laravel+%7C+ASP.NET+Core+%7C+React+%7C+Flutter;☕+Java+%7C+PostgreSQL+%7C+MySQL;🛒+E-commerce+System+Builder;🔐+Security+%26+Performance+Focused"
+    src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=950&lines=👋+Hi%2C+I'm+Chun+Rattnakvisal;💻+Full-Stack+Web+Developer;🚀+Laravel+%7C+ASP.NET+Core+%7C+React;🛒+E-commerce+System+Builder;🔐+Security+%26+Performance+Focused"
     alt="Typing Animation"
   />
 </p>
@@ -50,7 +50,7 @@ I focus on turning ideas into real-world digital products using **clean code**, 
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs,java,nodejs" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs," alt="Backend Skills" />
 </p>
 
 
