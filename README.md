@@ -137,49 +137,22 @@ Modern Point of Sale and management system for coffee shop operations.
 
 <td width="50%" valign="top">
 
-## 🥗 NhamHealth
-
-Mobile health and nutrition application focused on helping users understand meals and manage healthier eating habits.
-
-**Key Features**
-
-- AI food recognition
-- Meal information
-- Weekly meal planner
-- Nutrition tracking
-- User health goals
-- Community features
-- Push notifications
-- English & Khmer support
-
-**Stack**
-
-`Flutter` `Dart` `Spring Boot` `PostgreSQL` `Firebase` `REST API`
-
-<br>
-
-<a href="https://github.com/Namchheav009/NhamHealth">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
 ## 🌐 Portfolio Website
 
 My personal developer portfolio showcasing my skills, experience, and software projects.
 
-**Focus**
+**Key Features**
 
 - Responsive design
 - Project showcase
+- Skills overview
 - Developer profile
-- Skills & technology overview
+- Contact information
+- Clean modern interface
+
+**Focus**
+
+`Frontend` `Responsive Design` `UI/UX` `Portfolio`
 
 <br>
 
@@ -189,32 +162,17 @@ My personal developer portfolio showcasing my skills, experience, and software p
 
 </td>
 
-<td width="50%" valign="top">
-
-## 🚧 More Projects Coming
-
-I'm continuously building projects involving:
-
-- Spring Boot
-- Laravel
-- ASP.NET Core
-- React
-- Flutter
-- PostgreSQL
-- Docker
-- REST APIs
-
-<br>
-
-<a href="https://github.com/Rattnakvisal?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
 </tr>
 
 </table>
+
+<div align="center">
+
+<a href="https://github.com/Rattnakvisal?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
