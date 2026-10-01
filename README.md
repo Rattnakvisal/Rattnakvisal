@@ -1,186 +1,301 @@
 <!-- ========================================================= -->
-<!-- GitHub Profile README - Chun Rattnakvisal                 -->
+<!-- GitHub Profile README — Chun Rattnakvisal                 -->
 <!-- ========================================================= -->
 
-<!-- ========================= HERO ========================== -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;text=Chun%20Rattnakvisal&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=Full-Stack%20Web%20and%20Mobile%20Developer&amp;descAlign=50&amp;descAlignY=58&amp;color=0:020617,40:0f172a,75:14532d,100:22c55e&amp;fontColor=ffffff&amp;animation=fadeIn"
-    width="100%"
-    alt="Chun Rattnakvisal Banner"
-  />
-</p>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Chun%20Rattnakvisal&fontAlign=50&fontAlignY=38&desc=Full-Stack%20%7C%20Backend%20%7C%20Mobile%20Developer&descAlign=50&descAlignY=58&color=0:020617,45:0F172A,75:14532D,100:22C55E&fontColor=ffffff&animation=fadeIn"
+  width="100%"
+/>
 
-<!-- ===================== TYPING TEXT ======================= -->
+<br>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=22C55E&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Hi%2C+I%27m+Chun+Rattnakvisal;Full-Stack+Web+and+Mobile+Developer;Laravel+%7C+ASP.NET+Core+%7C+Spring+Boot;React+%7C+Tailwind+CSS+%7C+JavaScript;Flutter+%7C+Dart+Mobile+Development;PostgreSQL+%7C+MySQL+%7C+SQL+Server;Building+Secure+and+Scalable+Applications"
-    alt="Typing Animation"
-  />
-</p>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Laravel+%7C+Spring+Boot+%7C+ASP.NET+Core;React+%7C+Tailwind+CSS;Flutter+%7C+Dart;PostgreSQL+%7C+MySQL+%7C+SQL+Server;Building+Secure+and+Scalable+Applications"
+/>
 
-<!-- ====================== CONTACT ========================== -->
+<br><br>
 
-<p align="center">
-
-<a href="https://github.com/Rattnakvisal">
-  <img
-    src="https://img.shields.io/badge/GitHub-Rattnakvisal-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="mailto:rattnakvisalchun@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
-    alt="Email"
-  />
+<a href="https://portfolio-gvmm.onrender.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/chun-rattnakvisal-3a24a0361/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Chun%20Rattnakvisal-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
-    alt="LinkedIn"
-  />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-gvmm.onrender.com/">
-  <img
-    src="https://img.shields.io/badge/Portfolio-View%20Portfolio-22C55E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"
-    alt="Portfolio"
-  />
+<a href="mailto:rattnakvisalchun@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
-
-<br>
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
+Hi, I'm **Chun Rattnakvisal**, a Business Information Technology student from Cambodia focused on building modern **web, backend, and mobile applications**.
+
+I enjoy working across the complete development lifecycle — from **UI/UX and database design** to **backend APIs, security, frontend integration, and deployment**.
+
 ```yaml
 name: Chun Rattnakvisal
-
-role:
-  - Full-Stack Developer
-  - Mobile App Developer
-
-education:
-  - Business Information Technology
-
-location:
-  - Cambodia
+role: Full-Stack & Mobile Developer
+location: Cambodia
 
 focus:
+  - Backend Development
   - Full-Stack Web Development
-  - Mobile App Development
+  - Mobile Development
   - REST API Development
-  - Database Design
+  - Database Engineering
   - Application Security
-  - Clean Architecture
-
-backend:
-  - Laravel
-  - ASP.NET Core
-  - Spring Boot
-
-frontend:
-  - React
-  - JavaScript
-  - TypeScript
-  - Tailwind CSS
-  - Bootstrap
-
-mobile:
-  - Flutter
-  - Dart
-
-databases:
-  - PostgreSQL
-  - MySQL
-  - SQL Server
-  - SQLite
 
 currently_learning:
   - Spring Boot
   - System Design
   - Docker
-  - Application Security
-  - PostgreSQL Optimization
   - Clean Architecture
-
-goal:
-  "Build secure, scalable, maintainable and user-friendly software."
+  - PostgreSQL Optimization
 ```
 
-I am a **Business Information Technology student** with a strong interest in software engineering and full-stack development.
-
-I enjoy developing applications from end to end — from **database design and backend APIs** to **responsive web interfaces and mobile applications**.
-
-My main interests are:
-
-- ⚙️ Backend development
-- 🌐 Full-stack web development
-- 📱 Mobile application development
-- 🗄️ Database engineering
-- 🔐 Application security
-- 🏗️ Software architecture
+> **My goal:** Build software that is clean, secure, scalable, maintainable, and easy to use.
 
 ---
 
-# 🧰 Tech Stack
+# 🛠️ Tech Stack
 
-## 🎨 Frontend
+### Backend
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite"
-    alt="Frontend Skills"
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,dotnet,cs" />
 </p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
+</p>
+
+`PostgreSQL` • `MySQL` • `SQL Server` • `SQLite`
+
+### Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,npm" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ☕ Coffee POS
+
+Modern Point of Sale and management system for coffee shop operations.
+
+**Key Features**
+
+- Admin dashboard
+- Product & category management
+- Inventory management
+- Cashier checkout
+- Attendance
+- Sales reporting
+- Authentication
+- Dockerized environment
+
+**Stack**
+
+`Laravel 12` `PHP` `MySQL` `Redis` `Docker` `Nginx` `Tailwind CSS`
 
 <br>
 
-## 📱 Mobile Development
+<a href="https://github.com/Rattnakvisal/Coffee">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=flutter,dart,firebase"
-    alt="Mobile Skills"
-  />
-</p>
+</td>
+
+<td width="50%" valign="top">
+
+## 🥗 NhamHealth
+
+Mobile health and nutrition application focused on helping users understand meals and manage healthier eating habits.
+
+**Key Features**
+
+- AI food recognition
+- Meal information
+- Weekly meal planner
+- Nutrition tracking
+- User health goals
+- Community features
+- Push notifications
+- English & Khmer support
+
+**Stack**
+
+`Flutter` `Dart` `Spring Boot` `PostgreSQL` `Firebase` `REST API`
 
 <br>
 
-## ⚙️ Backend Development
+<a href="https://github.com/Namchheav009/NhamHealth">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs,java,spring"
-    alt="Backend Skills"
-  />
-</p>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Portfolio Website
+
+My personal developer portfolio showcasing my skills, experience, and software projects.
+
+**Focus**
+
+- Responsive design
+- Project showcase
+- Developer profile
+- Skills & technology overview
 
 <br>
 
-## 🗄️ Databases
+<a href="https://portfolio-gvmm.onrender.com/">
+  <img src="https://img.shields.io/badge/Live%20Website-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite"
-    alt="Database Skills"
-  />
-</p>
+</td>
 
-Additional database technologies:
+<td width="50%" valign="top">
+
+## 🚧 More Projects Coming
+
+I'm continuously building projects involving:
+
+- Spring Boot
+- Laravel
+- ASP.NET Core
+- React
+- Flutter
+- PostgreSQL
+- Docker
+- REST APIs
+
+<br>
+
+<a href="https://github.com/Rattnakvisal?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚙️ What I Build
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🌐 Web
+
+- Responsive applications
+- Admin dashboards
+- Management systems
+- REST API integration
+- Authentication
+- Role-based access
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ Backend
+
+- RESTful APIs
+- Authentication
+- JWT
+- RBAC
+- Validation
+- Error handling
+- Clean architecture
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📱 Mobile
+
+- Flutter applications
+- GetX
+- REST APIs
+- Firebase
+- Push notifications
+- Responsive UI
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🔐 Backend & Security
 
 ```text
+✓ REST API Design
+✓ Authentication & Authorization
+✓ JWT Authentication
+✓ Role-Based Access Control
+✓ Email Verification
+✓ OTP Verification
+✓ Server-Side Validation
+✓ Password Security
+✓ API Rate Limiting
+✓ Audit Logging
+✓ Database Transactions
+```
+
+---
+
+# 🗄️ Database Skills
+
+```text
+PostgreSQL
+MySQL
 Microsoft SQL Server
+SQLite
+
 Relational Database Design
-Primary Keys / Foreign Keys
+Primary Keys & Foreign Keys
 One-to-One Relationships
 One-to-Many Relationships
 Many-to-Many Relationships
@@ -189,580 +304,122 @@ Database Indexing
 Query Optimization
 ```
 
-<br>
-
-## 🛠️ Tools
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,npm,vite"
-    alt="Development Tools"
-  />
-</p>
-
----
-
-# 🚀 Engineering Capabilities
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🌐 Full-Stack Web Development</h3>
-
-Building responsive web applications with:
-
-- React
-- JavaScript
-- TypeScript
-- Tailwind CSS
-- Bootstrap
-- Laravel
-- ASP.NET Core
-- Spring Boot
-- REST API integration
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📱 Mobile Development</h3>
-
-Building cross-platform mobile applications with:
-
-- Flutter
-- Dart
-- GetX
-- Firebase
-- REST API integration
-- Push notifications
-- Authentication
-- Responsive mobile UI
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>⚙️ Backend Development</h3>
-
-Developing backend systems with:
-
-- RESTful APIs
-- Authentication
-- Authorization
-- JWT
-- Validation
-- Error handling
-- Role-based access control
-- Clean architecture
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🗄️ Database Engineering</h3>
-
-Working with:
-
-- PostgreSQL
-- MySQL
-- SQL Server
-- SQLite
-- Foreign keys
-- Transactions
-- Indexing
-- Query optimization
-- Relational modeling
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🔐 Security Knowledge
-
-<p align="center">
-
-<img
-  src="https://img.shields.io/badge/JWT-Authentication-22C55E?style=flat-square"
-  alt="JWT"
-/>
-
-<img
-  src="https://img.shields.io/badge/RBAC-Authorization-22C55E?style=flat-square"
-  alt="RBAC"
-/>
-
-<img
-  src="https://img.shields.io/badge/OTP-Verification-22C55E?style=flat-square"
-  alt="OTP"
-/>
-
-<img
-  src="https://img.shields.io/badge/API-Validation-22C55E?style=flat-square"
-  alt="API Validation"
-/>
-
-<img
-  src="https://img.shields.io/badge/Rate-Limiting-22C55E?style=flat-square"
-  alt="Rate Limiting"
-/>
-
-</p>
-
-```text
-Authentication & Authorization
-JWT Authentication
-Session Authentication
-Role-Based Access Control
-Email Verification
-OTP Verification
-Password Security
-Server-Side Validation
-API Rate Limiting
-Secure REST API Design
-Audit Logging
-```
-
----
-
-# 💻 Main Technologies
-
-<p align="center">
-
-<img
-  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white"
-  alt="Laravel"
-/>
-
-<img
-  src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white"
-  alt="ASP.NET Core"
-/>
-
-<img
-  src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white"
-  alt="Spring Boot"
-/>
-
-<img
-  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB"
-  alt="React"
-/>
-
-<img
-  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white"
-  alt="Flutter"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-  src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"
-  alt="PostgreSQL"
-/>
-
-<img
-  src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"
-  alt="MySQL"
-/>
-
-<img
-  src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"
-  alt="Docker"
-/>
-
-<img
-  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"
-  alt="Git"
-/>
-
-</p>
-
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rattnakvisal&amp;theme=github_dark"
-    width="100%"
-    alt="GitHub Profile Details"
-  />
-</p>
-
-<br>
-
-<p align="center">
+<div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rattnakvisal&amp;theme=github_dark"
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rattnakvisal&theme=github_dark"
+/>
+
+<br><br>
+
+<img
   width="48%"
-  alt="Repositories Per Language"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rattnakvisal&theme=github_dark"
 />
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rattnakvisal&amp;theme=github_dark"
   width="48%"
-  alt="Most Commit Language"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rattnakvisal&theme=github_dark"
 />
 
-</p>
-
-<br>
-
-<p align="center">
+<br><br>
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rattnakvisal&amp;theme=github_dark"
   width="48%"
-  alt="GitHub Statistics"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rattnakvisal&theme=github_dark"
 />
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rattnakvisal&amp;theme=github_dark&amp;utcOffset=7"
   width="48%"
-  alt="Productive Time"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rattnakvisal&theme=github_dark&utcOffset=7"
 />
 
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=Rattnakvisal&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=10"
-  alt="GitHub Streak"
+  src="https://streak-stats.demolab.com?user=Rattnakvisal&theme=github-dark-blue&hide_border=true&border_radius=12"
 />
 
-</p>
+</div>
 
 ---
 
-# 📌 Current Focus
-
-<table>
-
-<tr>
-
-<td width="33%" valign="top">
-
-<h3>⚙️ Backend</h3>
-
-- Spring Boot
-- Laravel
-- ASP.NET Core
-- REST APIs
-- Clean Architecture
-- Authentication
-- API Security
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>📱 Mobile</h3>
-
-- Flutter
-- Dart
-- GetX
-- Firebase
-- Push Notifications
-- API Integration
-- Responsive UI
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>🗄️ Database</h3>
-
-- PostgreSQL
-- MySQL
-- SQL Server
-- Database Design
-- Indexing
-- Transactions
-- Query Optimization
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-
-<img
-  src="https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white"
-  alt="Spring Boot"
-/>
-
-<img
-  src="https://img.shields.io/badge/System_Design-Learning-22C55E?style=for-the-badge"
-  alt="System Design"
-/>
-
-<img
-  src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"
-  alt="Docker"
-/>
-
-<img
-  src="https://img.shields.io/badge/Security-Learning-EA580C?style=for-the-badge"
-  alt="Security"
-/>
-
-</p>
-
----
-
-# 🎯 2026 Development Roadmap
-
-## ✅ Completed
-
-- [x] Build full-stack applications with Laravel
-- [x] Build REST APIs using ASP.NET Core
-- [x] Build mobile applications using Flutter
-- [x] Design relational database systems
-- [x] Connect frontend applications with REST APIs
-- [x] Implement authentication and authorization
-- [x] Work with PostgreSQL and MySQL
-- [x] Implement Firebase push notifications
-
-## 🚧 In Progress
-
-- [ ] Master Spring Boot
-- [ ] Improve React architecture
-- [ ] Improve clean architecture knowledge
-- [ ] Learn advanced PostgreSQL optimization
-- [ ] Improve Docker knowledge
-- [ ] Improve application security
-- [ ] Learn automated testing
-- [ ] Learn Redis caching
-
-## 🚀 Future Goals
-
-- [ ] Learn microservice architecture
-- [ ] Learn CI/CD pipelines
-- [ ] Learn cloud deployment
-- [ ] Learn distributed caching
-- [ ] Improve system design knowledge
-- [ ] Build production-ready SaaS applications
-- [ ] Contribute to open-source projects
-
----
-
-# 🏗️ Development Workflow
+# 📚 Currently Improving
 
 ```text
-Requirements
-     ↓
-UI / UX Design
-     ↓
-Database Design
-     ↓
-Backend API
-     ↓
-Authentication & Security
-     ↓
-Frontend / Mobile Integration
-     ↓
-Testing
-     ↓
-Deployment
-     ↓
-Monitoring & Improvement
-```
-
----
-
-# 🧠 Development Principles
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-### 🧹 Clean Code
-
-Write readable and maintainable code.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔐 Security
-
-Secure authentication, APIs and user data.
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚡ Performance
-
-Build efficient applications and queries.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center">
-
-### 🗄️ Database
-
-Design reliable relational databases.
-
-</td>
-
-<td width="33%" align="center">
-
-### 📱 User Experience
-
-Create simple and responsive interfaces.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🚀 Scalability
-
-Design applications that can grow.
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💡 Development Philosophy
-
-<p align="center">
-  <b>Build it clean. Secure it properly. Improve it continuously.</b>
-</p>
-
-<p align="center">
-  <code>Clean Code</code> • <code>Secure APIs</code> • <code>Scalable Architecture</code> • <code>Better UX</code>
-</p>
-
----
-
-# 🎓 Areas of Interest
-
-```text
-💻 Software Engineering
-🌐 Full-Stack Development
-⚙️ Backend Development
-📱 Mobile Application Development
-🗄️ Database Engineering
+⚙️ Spring Boot & Backend Architecture
+🏗️ System Design
+🐳 Docker & Deployment
+🗄️ PostgreSQL Performance
 🔐 Application Security
-🏗️ Software Architecture
-☁️ Deployment & DevOps
+🧪 Automated Testing
+⚡ Redis & Caching
+🔄 CI/CD
 ```
+
+---
+
+# 🎯 Development Philosophy
+
+<div align="center">
+
+### Build it clean. Secure it properly. Improve it continuously.
+
+`Clean Code` • `Secure APIs` • `Scalable Architecture` • `Database Design` • `Better UX`
+
+</div>
 
 ---
 
 # 🤝 Open To
 
-<p align="center">
+<div align="center">
 
-<img
-  src="https://img.shields.io/badge/Internship-Open-22C55E?style=for-the-badge"
-  alt="Internship"
-/>
+<img src="https://img.shields.io/badge/Internship-Open-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Junior%20Developer-Open-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Collaboration-Open-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Interested-22C55E?style=for-the-badge"/>
 
-<img
-  src="https://img.shields.io/badge/Team_Projects-Open-22C55E?style=for-the-badge"
-  alt="Team Projects"
-/>
-
-<img
-  src="https://img.shields.io/badge/Collaboration-Open-22C55E?style=for-the-badge"
-  alt="Collaboration"
-/>
-
-<img
-  src="https://img.shields.io/badge/Open_Source-Interested-22C55E?style=for-the-badge"
-  alt="Open Source"
-/>
-
-</p>
+</div>
 
 ---
 
-# 📬 Contact Me
+# 📬 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:rattnakvisalchun@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-rattnakvisalchun%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
-    alt="Email"
-  />
+  <img src="https://img.shields.io/badge/Gmail-rattnakvisalchun%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/chun-rattnakvisal-3a24a0361/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Chun%20Rattnakvisal-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
-    alt="LinkedIn"
-  />
+  <img src="https://img.shields.io/badge/LinkedIn-Chun%20Rattnakvisal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-gvmm.onrender.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://portfolio-gvmm.onrender.com/">
-  <img
-    src="https://img.shields.io/badge/Portfolio-View%20My%20Projects-22C55E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"
-    alt="Portfolio"
-  />
-</a>
+### Thanks for visiting my profile 👋
 
-</p>
+If you find one of my projects useful, consider giving it a ⭐.
 
----
+</div>
 
-<p align="center">
-  <b>Thanks for visiting my GitHub profile 👋</b>
-</p>
-
-<p align="center">
-  If you find one of my repositories useful, consider giving it a ⭐
-</p>
-
-<br>
-
-<!-- ======================== FOOTER ========================= -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:020617,50:14532d,100:22c55e"
-    width="100%"
-    alt="Footer"
-  />
-</p>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:14532D,100:22C55E"
+  width="100%"
+/>
