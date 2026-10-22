@@ -17,7 +17,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to-Junior_roles_%C2%B7_Internships_%C2%B7_Collaboration-63E6BE?style=flat-square&amp;labelColor=182B25" alt="Open to junior roles, internships, and collaboration" />
   <img src="https://img.shields.io/badge/Based_in-Phnom_Penh,_Cambodia-182B25?style=flat-square&amp;labelColor=182B25&amp;color=63E6BE" alt="Based in Phnom Penh, Cambodia" />
-  <img src="https://komarev.com/ghpvc/?username=Rattnakvisal&amp;label=Profile+views&amp;color=63E6BE&amp;labelColor=182B25&amp;style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
