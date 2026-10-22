@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="66" viewBox="0 0 960 66" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">From interface to database</title>
+  <desc id="desc">Building with Laravel and ASP.NET Core. Creating interfaces with React and Flutter. Learning, shipping, and improving.</desc>
+  <defs><clipPath id="reveal"><rect class="mask" x="0" y="0" width="850" height="66"/></clipPath></defs>
+  <style>
+    .mask { animation: typing 15s steps(50, end) infinite; }
+    .line { opacity: 0; animation: rotate 15s step-end infinite; }
+    .first { opacity: 1; }
+    .second { animation-delay: -10s; }
+    .third { animation-delay: -5s; }
+    .caret { animation: blink 1s step-end infinite; }
+    @keyframes typing { 0%, 33.333%, 66.666%, 100% { width: 0; } 14%, 27%, 47.333%, 60.333%, 80.666%, 93.666% { width: 850px; } }
+    @keyframes rotate { 0%, 33.332% { opacity: 1; } 33.333%, 100% { opacity: 0; } }
+    @keyframes blink { 50% { opacity: .2; } }
+    @media (prefers-reduced-motion: reduce) { .mask, .line, .caret { animation: none; } .first { opacity: 1; } .second, .third { opacity: 0; } }
+  </style>
+  <rect x="1" y="1" width="958" height="64" rx="12" fill="#0D1818" stroke="#28413B"/>
+  <text class="caret" x="24" y="41" font-family="Consolas, monospace" font-size="21" fill="#63E6BE">&gt;</text>
+  <g clip-path="url(#reveal)" font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#BCEBD8">
+    <text class="line first" x="54" y="41">Building backends with Laravel &amp; ASP.NET Core.</text>
+    <text class="line second" x="54" y="41">Crafting interfaces with React &amp; Flutter.</text>
+    <text class="line third" x="54" y="41">Learning. Shipping. Improving. One commit at a time.</text>
+  </g>
+</svg>

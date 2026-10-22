@@ -2,31 +2,55 @@
   <title id="title">Chun Rattnakvisal — Full-stack and mobile developer</title>
   <desc id="desc">Building thoughtful interfaces and reliable systems. Based in Phnom Penh, Cambodia.</desc>
   <defs>
+    <clipPath id="terminal-typing"><rect class="typing-mask" x="26" y="96" width="200" height="30"/></clipPath>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#0D1818"/><stop offset="1" stop-color="#071010"/></linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#9DD6C0" stroke-opacity=".06"/></pattern>
     <linearGradient id="line" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#63E6BE"/><stop offset="1" stop-color="#63E6BE" stop-opacity="0"/></linearGradient>
   </defs>
+  <style>
+    .status { transform-box: fill-box; transform-origin: center; animation: pulse 3s ease-in-out infinite; }
+    .terminal { animation: float 7s ease-in-out infinite; }
+    .typing-mask { animation: type 8s steps(13, end) infinite; }
+    .cursor { animation: blink 1s step-end infinite; }
+    .signal { stroke-dasharray: 90 1200; animation: trace 9s linear infinite; }
+    .spark { animation: shimmer 5s ease-in-out infinite alternate; }
+    .spark-late { animation-delay: -2.5s; }
+    .intro { animation: arrive 1.2s ease-out both; }
+    @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: .5; transform: scale(.8); } }
+    @keyframes float { 0%, 100% { transform: translate(858px, 88px); } 50% { transform: translate(858px, 80px); } }
+    @keyframes type { 0%, 8% { width: 0; } 38%, 85% { width: 200px; } 100% { width: 0; } }
+    @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+    @keyframes trace { to { stroke-dashoffset: -1290; } }
+    @keyframes shimmer { from { opacity: .15; } to { opacity: .65; } }
+    @keyframes arrive { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @media (prefers-reduced-motion: reduce) { .status, .terminal, .typing-mask, .cursor, .signal, .spark, .intro { animation: none; } }
+  </style>
   <rect width="1280" height="440" rx="24" fill="url(#bg)"/>
   <rect width="1280" height="440" rx="24" fill="url(#grid)"/>
+  <circle class="spark" cx="784" cy="87" r="3" fill="#63E6BE" opacity=".35"/>
+  <circle class="spark spark-late" cx="815" cy="335" r="2" fill="#63E6BE" opacity=".35"/>
+  <circle class="spark" cx="1235" cy="385" r="3" fill="#63E6BE" opacity=".35"/>
   <rect x="1" y="1" width="1278" height="438" rx="23" stroke="#28413B"/>
+  <rect class="signal" x="1" y="1" width="1278" height="438" rx="23" stroke="#63E6BE" stroke-opacity=".6"/>
   <path d="M48 2H1232" stroke="url(#line)" stroke-width="3"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <circle cx="64" cy="61" r="5" fill="#63E6BE"/>
+    <circle class="status" cx="64" cy="61" r="5" fill="#63E6BE"/>
     <text x="81" y="66" fill="#A6C4B9" font-size="14" letter-spacing="2.5">DEVELOPER PORTFOLIO</text>
-    <text x="58" y="145" fill="#F0F6F3" font-size="54" font-weight="700" letter-spacing="-2">Chun Rattnakvisal<tspan fill="#63E6BE">.</tspan></text>
+    <text class="intro" x="58" y="145" fill="#F0F6F3" font-size="54" font-weight="700" letter-spacing="-2">Chun Rattnakvisal<tspan fill="#63E6BE">.</tspan></text>
     <text x="60" y="189" fill="#63E6BE" font-size="22">Full-stack &amp; mobile developer</text>
     <text x="60" y="252" fill="#E4EEE9" font-size="28">Thoughtful interfaces.</text>
     <text x="60" y="290" fill="#E4EEE9" font-size="28">Reliable systems.</text>
     <text x="60" y="369" fill="#A6C4B9" font-size="16">PHNOM PENH, CAMBODIA</text>
     <text x="60" y="397" fill="#A6C4B9" font-size="14">Web / APIs / Databases / Mobile</text>
   </g>
-  <g transform="translate(858 88)">
+  <g class="terminal" transform="translate(858 88)">
     <rect width="350" height="268" rx="16" fill="#101E1B" stroke="#2A4940"/>
     <path d="M0 44H350" stroke="#2A4940"/>
     <circle cx="23" cy="22" r="5" fill="#F38B83"/><circle cx="42" cy="22" r="5" fill="#EBCB80"/><circle cx="61" cy="22" r="5" fill="#63E6BE"/>
     <g font-family="Consolas, 'Courier New', monospace" font-size="16">
       <text x="26" y="83" fill="#A6C4B9">$ whoami</text>
-      <text x="26" y="117" fill="#63E6BE">@Rattnakvisal</text>
+      <text x="26" y="117" fill="#63E6BE" clip-path="url(#terminal-typing)">@Rattnakvisal</text>
+      <path class="cursor" d="M156 76V87" stroke="#63E6BE" stroke-width="8"/>
       <text x="26" y="163" fill="#A6C4B9">const focus = [</text>
       <text x="44" y="193" fill="#E4EEE9">'build', 'learn', 'improve'</text>
       <text x="26" y="223" fill="#A6C4B9">];</text>

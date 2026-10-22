@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/typing.svg" width="100%" alt="Building backends with Laravel and ASP.NET Core, crafting interfaces with React and Flutter, and improving one commit at a time." />
+</p>
+
+<p align="center">
   <a href="https://portfolio-gvmm.onrender.com/"><img src="https://img.shields.io/badge/Explore_my_portfolio-63E6BE?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1818" alt="Explore my portfolio" /></a>
   <a href="https://www.linkedin.com/in/chun-rattnakvisal-3a24a0361/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
   <a href="mailto:rattnakvisalchun@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-182B25?style=for-the-badge&amp;logo=gmail&amp;logoColor=63E6BE" alt="Email Chun Rattnakvisal" /></a>
@@ -36,6 +40,8 @@ My projects include school operations, library workflows, coffee shop point of s
 
 ### 01 / Coffee POS
 
+<img src="./assets/project-coffee.svg" width="100%" alt="Coffee POS — point of sale and operations" />
+
 <a href="https://github.com/Rattnakvisal/Coffee-System"><img src="./assets/coffee.png" width="100%" alt="Coffee shop management project preview" /></a>
 
 A point-of-sale and management application for everyday coffee shop operations.
@@ -52,6 +58,8 @@ A point-of-sale and management application for everyday coffee shop operations.
 <td width="50%" valign="top">
 
 ### 02 / School Management
+
+<img src="./assets/project-school.svg" width="100%" alt="School Management — connected school operations" />
 
 <a href="https://github.com/Rattnakvisal/school-management-system"><img src="./assets/school.png" width="100%" alt="School management system project preview" /></a>
 
@@ -72,6 +80,8 @@ A school operations platform with workspaces for administrators, staff, teachers
 
 ### 03 / Library Management
 
+<img src="./assets/project-library.svg" width="100%" alt="Library Management — catalog and borrowing workflows" />
+
 <a href="https://github.com/Rattnakvisal/Library-Management-system"><img src="./assets/library.png" width="100%" alt="Library management system project preview" /></a>
 
 A library application built during my internship at ACLEDA University of Business.
@@ -88,6 +98,8 @@ A library application built during my internship at ACLEDA University of Busines
 <td width="50%" valign="top">
 
 ### 04 / MyBrand E-Commerce
+
+<img src="./assets/project-ecommerce.svg" width="100%" alt="MyBrand — storefront and administration" />
 
 <a href="https://github.com/Rattnakvisal/MyBrand_Ecommerce"><img src="./assets/ecommerce.png" width="100%" alt="MyBrand shoes e-commerce project preview" /></a>
 
@@ -112,6 +124,10 @@ A shopping platform connecting a customer storefront with an administration dash
 </p>
 
 ## Toolkit
+
+<p>
+  <img src="./assets/workflow.svg" width="100%" alt="Connecting interfaces, APIs, and databases across the full application stack." />
+</p>
 
 | Area | Technologies I work with |
 | --- | --- |

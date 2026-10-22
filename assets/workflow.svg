@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="170" viewBox="0 0 960 170" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Connecting every layer</title>
+  <desc id="desc">Interface, API, and database connected by moving signals, representing full-stack development.</desc>
+  <style>
+    .packet { stroke-dasharray: 12 348; animation: travel 5s linear infinite; }
+    .return { animation-delay: -2.5s; }
+    .node { animation: glow 5s ease-in-out infinite; }
+    .api { animation-delay: -1.6s; }
+    .data { animation-delay: -3.2s; }
+    @keyframes travel { to { stroke-dashoffset: -360; } }
+    @keyframes glow { 0%, 100% { stroke-opacity: .35; } 50% { stroke-opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .packet, .node { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="958" height="168" rx="16" fill="#0D1818" stroke="#28413B"/>
+  <g stroke="#28413B" stroke-width="2"><path d="M256 85H369"/><path d="M591 85H704"/></g>
+  <g stroke="#63E6BE" stroke-width="3"><path class="packet" d="M256 85H369"/><path class="packet return" d="M591 85H704"/></g>
+  <g fill="#101E1B" stroke="#63E6BE"><rect class="node" x="34" y="37" width="222" height="96" rx="12"/><rect class="node api" x="369" y="37" width="222" height="96" rx="12"/><rect class="node data" x="704" y="37" width="222" height="96" rx="12"/></g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <g fill="#F0F6F3" font-size="20" font-weight="700"><text x="145" y="77">Interface</text><text x="480" y="77">API &amp; business logic</text><text x="815" y="77">Database</text></g>
+    <g fill="#A6C4B9" font-size="14"><text x="145" y="105">React / Flutter</text><text x="480" y="105">Laravel / ASP.NET Core</text><text x="815" y="105">MySQL / SQL Server</text></g>
+  </g>
+</svg>
