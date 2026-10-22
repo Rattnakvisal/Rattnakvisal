@@ -15,22 +15,33 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_to_junior_roles_%26_internships-63E6BE?style=flat-square&amp;labelColor=182B25" alt="Open to junior developer roles and internships" />
+  <img src="https://komarev.com/ghpvc/?username=Rattnakvisal&amp;label=Profile+views&amp;color=63E6BE&amp;style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
   <a href="#about">About</a> ·
   <a href="#selected-work">Selected work</a> ·
   <a href="#toolkit">Toolkit</a> ·
   <a href="#currently-exploring">Learning</a> ·
+  <a href="#github-stats">Stats</a> ·
   <a href="#lets-connect">Contact</a>
 </p>
 
 ## About
 
-Hi, I'm **Visal**, a Business Information Technology student at **ACLEDA University of Business** in Cambodia. I build web applications, backend systems, and mobile interfaces, with an interest in how good design and clear data models work together.
+**សួស្តី! 👋** Hi, I'm **Visal**, a Business Information Technology student at **ACLEDA University of Business** in Cambodia. I build web applications, backend systems, and mobile interfaces, with an interest in how good design and clear data models work together.
 
 My projects include school operations, library workflows, coffee shop point of sale, and e-commerce. I enjoy connecting the pieces: a usable interface, well-structured business logic, and a database that fits the problem.
 
-- **Experience:** Software Developer Intern at ACLEDA University of Business, working on a library management system with ASP.NET Core and SQL Server.
-- **Focus:** Laravel and ASP.NET Core applications, REST APIs, relational database design, and responsive interfaces.
-- **Open to:** Junior developer roles, internships, and project collaboration.
+| | |
+| --- | --- |
+| 📍 **Based in** | Phnom Penh, Cambodia |
+| 🎓 **Studying** | Business Information Technology, ACLEDA University of Business |
+| 💼 **Experience** | Software Developer Intern at ACLEDA University of Business, building a library management system with ASP.NET Core and SQL Server |
+| 🛠️ **Focus** | Laravel and ASP.NET Core applications, REST APIs, relational database design, responsive interfaces |
+| 🌱 **Learning** | Java and Spring Boot, system design, PostgreSQL and Redis, testing and CI/CD |
+| 🤝 **Open to** | Junior developer roles, internships, and project collaboration |
 
 ## Selected work
 
@@ -50,7 +61,7 @@ A point-of-sale and management application for everyday coffee shop operations.
 - Cashier checkout, attendance, and order history
 - Docker environment with Nginx, MySQL, and Redis
 
-`Laravel` `PHP` `MySQL` `Redis` `Docker`
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,redis,docker&amp;theme=dark" alt="Laravel, PHP, MySQL, Redis, Docker" />
 
 **[Explore repository →](https://github.com/Rattnakvisal/Coffee-System)**
 
@@ -69,7 +80,7 @@ A school operations platform with workspaces for administrators, staff, teachers
 - Payments, reports, and PDF/Excel exports
 - Role-based permissions and Telegram OTP authentication
 
-`Laravel` `MySQL` `Tailwind CSS` `Docker`
+<img src="https://skillicons.dev/icons?i=laravel,mysql,tailwind,docker&amp;theme=dark" alt="Laravel, MySQL, Tailwind CSS, Docker" />
 
 **[Explore repository →](https://github.com/Rattnakvisal/school-management-system)**
 
@@ -90,7 +101,7 @@ A library application built during my internship at ACLEDA University of Busines
 - Admin, librarian, and reader workflows
 - Identity authentication, email confirmation, and reporting
 
-`ASP.NET Core` `C#` `EF Core` `SQL Server`
+<img src="https://skillicons.dev/icons?i=dotnet,cs&amp;theme=dark" alt="ASP.NET Core, C#" /> &nbsp;`EF Core` `SQL Server`
 
 **[Explore repository →](https://github.com/Rattnakvisal/Library-Management-system)**
 
@@ -109,7 +120,7 @@ A shopping platform connecting a customer storefront with an administration dash
 - Order management and payment analytics
 - PHP/PDO data access and a MySQL relational schema
 
-`PHP` `MySQL` `JavaScript` `Tailwind CSS`
+<img src="https://skillicons.dev/icons?i=php,mysql,js,tailwind&amp;theme=dark" alt="PHP, MySQL, JavaScript, Tailwind CSS" />
 
 **[Explore repository →](https://github.com/Rattnakvisal/MyBrand_Ecommerce)**
 
@@ -129,29 +140,59 @@ A shopping platform connecting a customer storefront with an administration dash
   <img src="./assets/workflow.svg" width="100%" alt="Connecting interfaces, APIs, and databases across the full application stack." />
 </p>
 
-| Area | Technologies I work with |
-| --- | --- |
-| **Backend** | PHP · Laravel · C# · ASP.NET Core · REST APIs |
-| **Frontend** | JavaScript · TypeScript · React · HTML · CSS · Tailwind CSS · Bootstrap |
-| **Mobile** | Flutter · Dart · Firebase |
-| **Data** | MySQL · PostgreSQL · Microsoft SQL Server · SQLite |
-| **Tools** | Git · GitHub · Docker · Postman · Figma · Composer · Vite |
+<table>
+<tr>
+<td><strong>Backend</strong></td>
+<td><img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet&amp;theme=dark" alt="PHP, Laravel, C#, ASP.NET Core" /></td>
+</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td><img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap&amp;theme=dark" alt="JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Bootstrap" /></td>
+</tr>
+<tr>
+<td><strong>Mobile</strong></td>
+<td><img src="https://skillicons.dev/icons?i=flutter,dart,firebase&amp;theme=dark" alt="Flutter, Dart, Firebase" /></td>
+</tr>
+<tr>
+<td><strong>Data</strong></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis&amp;theme=dark" alt="MySQL, PostgreSQL, SQLite, Redis" /> &nbsp;<code>Microsoft SQL Server</code></td>
+</tr>
+<tr>
+<td><strong>Tools</strong></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vite&amp;theme=dark" alt="Git, GitHub, Docker, Postman, Figma, Vite" /> &nbsp;<code>Composer</code></td>
+</tr>
+</table>
 
 I care about readable code, clear validation, authentication and authorization, and thoughtful database relationships. I aim to make each project easier to use and maintain as I learn.
 
 ## Currently exploring
 
-- **Java and Spring Boot** — REST services and backend architecture
-- **System design and clean architecture** — clearer boundaries between application concerns
-- **PostgreSQL and Redis** — query performance, indexing, and caching
-- **Testing and delivery** — automated checks, Docker, and CI/CD workflows
+| Topic | What I'm working on |
+| --- | --- |
+| ☕ **Java and Spring Boot** | REST services and backend architecture |
+| 🏗️ **System design and clean architecture** | Clearer boundaries between application concerns |
+| ⚡ **PostgreSQL and Redis** | Query performance, indexing, and caching |
+| 🚀 **Testing and delivery** | Automated checks, Docker, and CI/CD workflows |
+
+## GitHub stats
+
+<p align="center">
+  <a href="https://github.com/Rattnakvisal?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rattnakvisal&amp;theme=github_dark" width="100%" alt="GitHub contribution summary for Rattnakvisal, provided by GitHub Profile Summary Cards" /></a>
+</p>
 
 <details>
-<summary><strong>GitHub activity</strong></summary>
+<summary><strong>More activity</strong></summary>
 
 <br />
 
-<a href="https://github.com/Rattnakvisal?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rattnakvisal&amp;theme=github_dark" width="100%" alt="GitHub contribution summary for Rattnakvisal, provided by GitHub Profile Summary Cards" /></a>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rattnakvisal&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1818&amp;title_color=63E6BE&amp;icon_color=63E6BE" alt="GitHub stats for Rattnakvisal" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rattnakvisal&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1818&amp;title_color=63E6BE" alt="Most used languages by Rattnakvisal" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rattnakvisal&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1818&amp;ring=63E6BE&amp;fire=63E6BE&amp;currStreakLabel=63E6BE" alt="GitHub contribution streak for Rattnakvisal" />
+</p>
 
 [View contributions and repositories directly on GitHub →](https://github.com/Rattnakvisal?tab=overview)
 
@@ -161,7 +202,11 @@ I care about readable code, clear validation, authentication and authorization, 
 
 I'm interested in opportunities where I can contribute to useful software, learn from other developers, and take care of the details.
 
-**[Email](mailto:rattnakvisalchun@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/chun-rattnakvisal-3a24a0361/)** · **[Portfolio](https://portfolio-gvmm.onrender.com/)**
+<p>
+  <a href="mailto:rattnakvisalchun@gmail.com"><strong>📧 Email</strong></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/chun-rattnakvisal-3a24a0361/"><strong>💼 LinkedIn</strong></a> &nbsp;·&nbsp;
+  <a href="https://portfolio-gvmm.onrender.com/"><strong>🌐 Portfolio</strong></a>
+</p>
 
 <p>
   <img src="./assets/footer.svg" width="100%" alt="Build with care. Keep improving. Open to meaningful work and collaboration." />
