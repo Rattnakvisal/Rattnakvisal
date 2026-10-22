@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Chun Rattnakvisal — Full-stack and mobile developer</title>
+  <desc id="desc">Building thoughtful interfaces and reliable systems. Based in Phnom Penh, Cambodia.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#0D1818"/><stop offset="1" stop-color="#071010"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#9DD6C0" stroke-opacity=".06"/></pattern>
+    <linearGradient id="line" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#63E6BE"/><stop offset="1" stop-color="#63E6BE" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1280" height="440" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="440" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1278" height="438" rx="23" stroke="#28413B"/>
+  <path d="M48 2H1232" stroke="url(#line)" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="64" cy="61" r="5" fill="#63E6BE"/>
+    <text x="81" y="66" fill="#A6C4B9" font-size="14" letter-spacing="2.5">DEVELOPER PORTFOLIO</text>
+    <text x="58" y="145" fill="#F0F6F3" font-size="54" font-weight="700" letter-spacing="-2">Chun Rattnakvisal<tspan fill="#63E6BE">.</tspan></text>
+    <text x="60" y="189" fill="#63E6BE" font-size="22">Full-stack &amp; mobile developer</text>
+    <text x="60" y="252" fill="#E4EEE9" font-size="28">Thoughtful interfaces.</text>
+    <text x="60" y="290" fill="#E4EEE9" font-size="28">Reliable systems.</text>
+    <text x="60" y="369" fill="#A6C4B9" font-size="16">PHNOM PENH, CAMBODIA</text>
+    <text x="60" y="397" fill="#A6C4B9" font-size="14">Web / APIs / Databases / Mobile</text>
+  </g>
+  <g transform="translate(858 88)">
+    <rect width="350" height="268" rx="16" fill="#101E1B" stroke="#2A4940"/>
+    <path d="M0 44H350" stroke="#2A4940"/>
+    <circle cx="23" cy="22" r="5" fill="#F38B83"/><circle cx="42" cy="22" r="5" fill="#EBCB80"/><circle cx="61" cy="22" r="5" fill="#63E6BE"/>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="16">
+      <text x="26" y="83" fill="#A6C4B9">$ whoami</text>
+      <text x="26" y="117" fill="#63E6BE">@Rattnakvisal</text>
+      <text x="26" y="163" fill="#A6C4B9">const focus = [</text>
+      <text x="44" y="193" fill="#E4EEE9">'build', 'learn', 'improve'</text>
+      <text x="26" y="223" fill="#A6C4B9">];</text>
+    </g>
+  </g>
+</svg>

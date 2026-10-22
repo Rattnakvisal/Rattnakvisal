@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="140" viewBox="0 0 1280 140" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Build with care. Keep improving.</title>
+  <rect width="1280" height="140" rx="20" fill="#0D1818"/>
+  <rect x="1" y="1" width="1278" height="138" rx="19" stroke="#28413B"/>
+  <path d="M48 40V100" stroke="#63E6BE" stroke-width="3"/>
+  <text x="74" y="70" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#F0F6F3">Build with care. Keep improving.</text>
+  <text x="75" y="99" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#A6C4B9">Always learning. Open to meaningful work and collaboration.</text>
+  <text x="1205" y="82" text-anchor="end" font-family="Consolas, monospace" font-size="32" fill="#63E6BE">&lt;/&gt;</text>
+</svg>
